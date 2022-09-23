@@ -4,9 +4,9 @@
 
 -> Cuerpo de la noticia
 
--> Pie del articulo
+-> Pie del articulo 
 
--> Sobre el Autor
+-> Sobre el Autor (Santos) 
 
 -> Mas noticias como esta
 
