@@ -1,7 +1,7 @@
 -> Titular
 
 -> Descripcion (gabriel)
-
+    Al parecer comieron Vori Vori con una balita lecherita adentro . . .
 -> Cuerpo de la noticia
 
 -> Pie del articulo (Day)
