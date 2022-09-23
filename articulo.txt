@@ -4,7 +4,7 @@
 
 -> Cuerpo de la noticia
 
--> Pie del articulo
+-> Pie del articulo (Day)
 
 -> Sobre el Autor
 
