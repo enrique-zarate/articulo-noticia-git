@@ -1,0 +1,13 @@
+-> Titular
+
+-> Descripcion
+
+-> Cuerpo de la noticia
+
+-> Pie del articulo
+
+-> Sobre el Autor
+
+-> Mas noticias como esta
+
+-> Redes Sociales
