@@ -1,12 +1,12 @@
 -> Titular (josek)
 
--> Descripcion
+-> Descripcion (gabriel)
 
 -> Cuerpo de la noticia
 
--> Pie del articulo
+-> Pie del articulo (Day)
 
--> Sobre el Autor
+-> Sobre el Autor (Santos) 
 
 -> Mas noticias como esta
 
