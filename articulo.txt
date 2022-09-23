@@ -1,6 +1,6 @@
 -> Titular
 
--> Descripcion
+-> Descripcion (gabriel)
 
 -> Cuerpo de la noticia
 
