@@ -1,12 +1,13 @@
--> Titular
+-> Titular (josek)
 
 -> Descripcion (gabriel)
     Al parecer comieron Vori Vori con una balita lecherita adentro . . .
--> Cuerpo de la noticia
+    
+-> Cuerpo de la noticia - Marcelo
 
 -> Pie del articulo (Day)
 
--> Sobre el Autor
+-> Sobre el Autor (Santos) 
 
 -> Mas noticias como esta
 
