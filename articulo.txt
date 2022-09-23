@@ -1,6 +1,6 @@
 -> Titular
 
--> Descripcion (dani)
+-> Descripcion 
 
 -> Cuerpo de la noticia
 
@@ -8,6 +8,6 @@
 
 -> Sobre el Autor
 
--> Mas noticias como esta
+-> Mas noticias como esta (dani)
 
 -> Redes Sociales
