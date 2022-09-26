@@ -1,7 +1,7 @@
 -> Titular (josek)
     "El Vori pierde valor en bolsa"
 -> Descripcion (gabriel)
-    Al parecer comieron Vori Vori con una balita lecherita adentro . . .
+    Al parecer comieron Vori Vori con una bolita lecherita adentro . . .
     
 -> Cuerpo de la noticia - (Marcelo)
     Grupo de jovenes programadores muere por atragantamiento del vori vori, 
