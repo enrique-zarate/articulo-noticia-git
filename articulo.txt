@@ -1,9 +1,9 @@
 -> Titular (josek)
-    "El Vori pierde valor en bolsa"
+    "El Vori pierde valor en bolsa" 
 -> Descripcion (gabriel)
     Al parecer comieron Vori Vori con una balita lecherita adentro . . .
     
--> Cuerpo de la noticia - Marcelo
+-> Cuerpo de la noticia - Marcelo 
     Grupo de jovenes programadores muere por atragantamiento del bori bori, se presume que uno de los jòvenes dijo "el que mastica la bola es gay", lo cual causò el siniestro.
 
 -> Pie del articulo (Day)
