@@ -6,6 +6,7 @@
 -> Cuerpo de la noticia - Marcelo
 
 -> Pie del articulo (Day)
+    El Ministerio de Salud y Bienestar Público aconseja a la población general a masticar sus voris para evitar atragantarse.
 
 -> Sobre el Autor (Santos) 
 
