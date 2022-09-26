@@ -1,10 +1,15 @@
--> Titular
+-> Titular (josek)
+    "El Vori pierde valor en bolsa"
+-> Descripcion (gabriel)
+    Al parecer comieron Vori Vori con una balita lecherita adentro . . .
+    
+-> Cuerpo de la noticia - (Marcelo)
+    Grupo de jovenes programadores muere por atragantamiento del vori vori, 
+    se presume que uno de los jòvenes dijo "el que mastica la bola es gay", 
+    lo cual causò el siniestro.
 
--> Descripcion
-
--> Cuerpo de la noticia
-
--> Pie del articulo 
+-> Pie del articulo (Day)
+    El Ministerio de Salud y Bienestar Público aconseja a la población general a masticar sus voris para evitar atragantarse.
 
 -> Sobre el Autor (Santos) 
 Santiago Martinez, Licenciado en Periodismo por la Universidad Nacional de Asuncion
@@ -12,4 +17,6 @@ Anteriormente, redactor de articulos en la seccion de Judiciales y Politica del 
  
 -> Mas noticias como esta
 
--> Redes Sociales
+-> Redes Sociales (Enrique)
+Instagram: los.bandoleros
+Facebook: los.bandoleros
