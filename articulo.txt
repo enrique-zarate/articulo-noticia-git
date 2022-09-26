@@ -3,8 +3,10 @@
 -> Descripcion (gabriel)
     Al parecer comieron Vori Vori con una balita lecherita adentro . . .
     
--> Cuerpo de la noticia - Marcelo
-    Grupo de jovenes programadores muere por atragantamiento del bori bori, se presume que uno de los jòvenes dijo "el que mastica la bola es gay", lo cual causò el siniestro.
+-> Cuerpo de la noticia - (Marcelo)
+    Grupo de jovenes programadores muere por atragantamiento del vori vori, 
+    se presume que uno de los jòvenes dijo "el que mastica la bola es gay", 
+    lo cual causò el siniestro.
 
 -> Pie del articulo (Day)
     El Ministerio de Salud y Bienestar Público aconseja a la población general a masticar sus voris para evitar atragantarse.
